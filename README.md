@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://www.pexels.com/photo/close-up-photo-of-programming-of-codes-546819/)]
 
 <h1 align="center">Hi 👋, I'm Asitha Kanchana Palliyaguru</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
